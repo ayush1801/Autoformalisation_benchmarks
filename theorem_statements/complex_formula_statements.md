@@ -1,4 +1,4 @@
->The theorem statements below are adapted from the sources mentioned and may not be identical. All formulas render well in VSCode though some don't render well on GitHub.
+>The theorem statements below are adapted from https://artofproblemsolving.com/ and may not be identical. In particular, when a problem asks the reader to evaluate an expression, we instead equate that expression to X so that the problem can be formalised as that equality. All formulas render well in VSCode though some don't render well on GitHub. 
 
 
 >Putnam 1940 B6
